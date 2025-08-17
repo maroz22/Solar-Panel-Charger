@@ -27,11 +27,11 @@ The project includes **over-voltage protection** and **reverse current protectio
 - Over-voltage cutoff triggers at **6.8V**
 - 
 ##📌 Future Improvements
-- Implement MPPT (Maximum Power Point Tracking)
+- **Implement MPPT (Maximum Power Point Tracking)
 - Improve efficiency with MOSFET-based regulators
 - Extend design for higher-capacity batteries
 - 
 ##👨‍💻 Authors
-- Marwan Elsayed Ali
+- **Marwan Elsayed Ali
 -Ali Emad
 -Ahmed Reda
