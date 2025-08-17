@@ -33,5 +33,5 @@ The project includes **over-voltage protection** and **reverse current protectio
   
 ## 👨‍💻 Authors
 - **Marwan Elsayed Ali**
--**Ali Emad**
--**Ahmed Reda**
+- **Ali Emad**
+- **Ahmed Reda**
