@@ -15,3 +15,6 @@ The project includes **over-voltage protection** and **reverse current protectio
 ---
 
 ## 📂 Project Structure
+┣ 📜 ELCT_PROJECT.pdf # Full project report
+┣ 📂 Schematic & Simulations / # Circuit diagrams,Proteus files
+┣ 📂 Results/ # Simulation graphs, plots, screenshots
