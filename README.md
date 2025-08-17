@@ -26,12 +26,12 @@ The project includes **over-voltage protection** and **reverse current protectio
 - Circuit maintains **stable 6V** across the battery  
 - Over-voltage cutoff triggers at **6.8V**
  
-##📌 Future Improvements
+## 📌 Future Improvements
 - **Implement MPPT (Maximum Power Point Tracking)**
 - Improve efficiency with MOSFET-based regulators
 - Extend design for higher-capacity batteries
   
-##👨‍💻 Authors
+## 👨‍💻 Authors
 - **Marwan Elsayed Ali**
 -**Ali Emad**
 -**Ahmed Reda**
