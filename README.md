@@ -3,6 +3,10 @@
 A regulated **solar battery charger circuit** designed to charge a **6V/4.5Ah battery** using a **12V solar panel** and an **LM317 voltage regulator**.  
 The project includes **over-voltage protection** and **reverse current protection**, tested through simulation and hardware implementation.  
 
+
+https://github.com/user-attachments/assets/902b0f79-040e-42ce-b28b-948e8528b577
+
+
 ---
 
 ## ✨ Features
@@ -19,6 +23,7 @@ The project includes **over-voltage protection** and **reverse current protectio
 - **1N4007 Diodes** – Reverse current protection  
 - **BC548 Transistor** – Cutoff switch for safety  
 - **Rechargeable Battery (6V/4.5Ah)** – Energy storage
+<img width="1642" height="871" alt="Solar PanelV1" src="https://github.com/user-attachments/assets/e7293949-2dc6-4ba4-8b5a-3925372335d7" />
 
 ## 📊 Simulation Highlights
 - **Higher irradiance → more charging current (Isc)**  
