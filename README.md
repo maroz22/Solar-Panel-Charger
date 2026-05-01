@@ -4,7 +4,7 @@ A regulated **solar battery charger circuit** designed to charge a **6V/4.5Ah ba
 The project includes **over-voltage protection** and **reverse current protection**, tested through simulation and hardware implementation.  
 
 
-https://github.com/user-attachments/assets/902b0f79-040e-42ce-b28b-948e8528b577
+<video src ="https://github.com/user-attachments/assets/902b0f79-040e-42ce-b28b-948e8528b577" muted autoplay loop></video>
 
 
 ---
